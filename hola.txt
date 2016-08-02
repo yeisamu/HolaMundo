@@ -1,1 +1,1 @@
-este es un archivo para verificar el git
+este es un archivo para verificar el git.
